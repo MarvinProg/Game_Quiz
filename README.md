@@ -38,7 +38,3 @@ ruby main.rb
 # Версия Ruby
 
 ruby 2.7.2
-
-# Год
-
-2021
